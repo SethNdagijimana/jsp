@@ -1,0 +1,14 @@
+SMAP
+display_jsp.java
+JSP
+*S JSP
+*F
++ 0 display.jsp
+display.jsp
++ 1 registration.jsp
+registration.jsp
+*L
+1,4:49
+1#1,80:52
+4#0,29:132
+*E
