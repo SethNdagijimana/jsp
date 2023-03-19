@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.navbar {
+  
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+ul, li{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+
+
+/*.container {
+    display: flex;
+    flex-direction: column;
+  width: -webkit-max-content;
+  width: -moz-max-content;
+  width: max-content;
+  max-width: 100%;
+  pointer-events: none;
+}
+.toast-container > :not(:last-child) {
+  margin-bottom: 0.75rem;
+}*/
